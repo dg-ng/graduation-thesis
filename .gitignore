@@ -1,0 +1,30 @@
+.env
+embeddings_cache/
+data/processed/
+results/*
+!results/comparison_table.csv
+!results/semantic_evaluation.csv
+!results/image_*.csv
+!results/image_*.json
+!results/image_*.npy
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.worktrees/
+.venv/
+_tmp_trainer/
+
+
+# Saved model artifacts (regenerate with scripts/export_models.py)
+models/
+
+# Raw and master data files (large, not version-controlled)
+data/raw/
+data/image-data/
+data/master_data.csv
+
+# Generated thesis figures (reproducible from notebooks)
+docs/fig*.png
+
+# Thesis documents
+graduation thesis/
