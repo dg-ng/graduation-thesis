@@ -1,4 +1,18 @@
-# Auto-Labeling for Text and Images
+# Automatic Label Generation Methods for Text and Image Data Based on Semi-Supervised and Unsupervised Learning
+
+Graduation thesis of **Nguyễn Lợi Thanh Dũng**.
+
+| | |
+|---|---|
+| University | University of Economics Ho Chi Minh City (UEH), College of Technology and Design |
+| Faculty | Business Information Technology |
+| Major | Data Science |
+| Class / Cohort | DS0001 / K49 |
+| Supervisor | PhD. Đặng Ngọc Hoàng Thành |
+| Academic year | 09/2023 – 12/2026 |
+| Submitted | Ho Chi Minh City, July 31, 2026 |
+
+## Overview
 
 Assign category labels to unlabeled data **without full human annotation**, and compare how far each automatic approach gets. The same framework is applied to two datasets:
 
