@@ -8,7 +8,7 @@ Graduation thesis of **Nguyễn Lợi Thanh Dũng**.
 | Faculty | Business Information Technology |
 | Major | Data Science |
 | Class / Cohort | DS0001 / K49 |
-| Supervisor | PhD. Đặng Ngọc Hoàng Thành |
+| Supervisor | Dr. Đặng Ngọc Hoàng Thành |
 | Academic year | 09/2023 – 12/2026 |
 | Submitted | Ho Chi Minh City, July 31, 2026 |
 
